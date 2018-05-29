@@ -7,5 +7,9 @@ public ClasePruebaBackImpl implements ClasePruebaBack {
   private String valor(){
   
   }
+  
+  private void valor(){
+    return "valor que no debe de regresar";
+  }
 
 }
