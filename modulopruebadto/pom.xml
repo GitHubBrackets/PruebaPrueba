@@ -25,7 +25,7 @@
 		<dependency>
 			<groupId>com.bbva.jee.arq.spring.core</groupId>
 			<artifactId>arq-spring-core</artifactId>
-			<version>${arq-spring-core.version}</version>
+			<version>15.3.0</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
